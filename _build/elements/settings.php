@@ -15,13 +15,13 @@ return [
         'area' => 'site',
         'namespace' => 'core',
     ],
-    'pdotools_elements_path' => [
-        'key' => 'pdotools_elements_path',
-        'xtype' => 'textfield',
-        'value' => '{core_path}components/app/elements/',
-        'area' => 'pdotools_main',
-        'namespace' => 'pdotools',
-    ],
+//    'pdotools_elements_path' => [
+//        'key' => 'pdotools_elements_path',
+//        'xtype' => 'textfield',
+//        'value' => '{core_path}components/app/elements/',
+//        'area' => 'pdotools_main',
+//        'namespace' => 'pdotools',
+//    ],
     'fenom_parser' => [
         'key' => 'pdotools_fenom_parser',
         'xtype' => 'combo-boolean',

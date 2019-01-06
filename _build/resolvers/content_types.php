@@ -9,7 +9,7 @@ if ($transport->xpdo) {
         case xPDOTransport::ACTION_UPGRADE:
 
             if ($type = $modx->getObject('modContentType', ['name' => 'HTML'])) {
-                $type->set('file_extensions', '');
+                $type->set('file_extensions', '/');
                 $type->save();
             }
             break;
