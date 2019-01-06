@@ -123,7 +123,7 @@ $packages = [
     'pdoTools' => '2.11.0-pl',
     'modalConsole' => '1.0.0-beta',
     'translit' => '1.0.0-beta',
-    'Console' => '2.2.1-beta2',
+    //'Console' => '2.2.1-beta2',
     'ClientConfig' => '2.1.0-pl',
     'UpgradeMODX' => '2.1.2-pl',
 ];
