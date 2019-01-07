@@ -12,7 +12,7 @@ class AppPackage
 
     const name = 'App';
     const name_lower = 'app';
-    const version = '0.1.0';
+    const version = '0.2.0';
     const release = 'pl';
 
 

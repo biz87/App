@@ -6,9 +6,9 @@ if ($transport->xpdo) {
     $modx =& $transport->xpdo;
 
     $ctx_settings = [
-        'site_start' => 'index',
-        'error_page' => '404',
-        'service_id' => 'service',
+//        'site_start' => 'index',
+//        'error_page' => '404',
+//        'service_id' => 'service',
         //'unauthorized_page' => '401',
     ];
 
